@@ -4,7 +4,7 @@ import { BsHouseFill, BsBellFill } from 'react-icons/bs';
 import { FaUser } from 'react-icons/fa';
 import useCurrentUser from '@/hooks/useCurrentUser';
 import SidebarItem from './SidebarItem';
-import SidebarLogo from './SidebarLogo';
+import Sidebarlogo from './SidebarLogo';
 import SidebarTweetButton from './SidebarTweetButton';
 
 const Sidebar = () => {
